@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">VEDANT SARNOBAT</h1>
-<!-- <h3 align="center">A life long learner</h3> -->
 
 
 #### 🔭 I’m currently developing a website for [AutoDL](https://github.com/Auto-DL/auto-dl.github.io)
 
 ---
----
 
-<!-- <details> -->
-<summary> <strong> Languages and Tools </strong> </summary>
 
----
+#### Languages and Tools
+
+<br/>
 
 <p align="left">
 
@@ -46,32 +44,15 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-<!-- </details> -->
-
-<!-- <details>
-<summary> <strong> GitHub Stats </strong> </summary>
-<p width=100% ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi10hero&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="adi10hero" /></p>
-
-
-<p width=100% style="display: block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi10hero&show_icons=true&theme=algolia&count_private=true" alt="adi10hero" /></p>
-</details> -->
 
 ---
----
 
-### My Stats:
+<details>
+<summary> <strong> My GitHub Stats </strong> </summary>
+<p width=100%>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant080102&layout=compact&theme=radical&count_private=true" alt="vedant080102" />
+</p>&nbsp;
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vedant080102&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vedant080102&count_private=true&show_icons=true&theme=radical" />
-</a>
-</div>
- 
----
-### Language Stats:
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=vedant080102&theme=radical">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=vedant080102&hide=php&theme=radical" />
-</a>
-</div>
+<p width=100% style="display: block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant080102&show_icons=true&theme=radical&count_private=true" alt="vedant080102" /></p>
+</details>
