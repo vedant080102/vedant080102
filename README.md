@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 <!-- <details> -->
 <summary> <strong> Languages and Tools </strong> </summary>
-### Languages and frameworks I use:
 
-<p align="center">
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
@@ -60,6 +59,11 @@ Here are some ideas to get you started:
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vedant080102&count_private=true&show_icons=true&theme=radical">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vedant080102&count_private=true&show_icons=true&theme=radical" />
 </a>
+</div>
+ 
+### Language Stats:
+
+<div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=vedant080102&theme=radical">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=vedant080102&hide=php&theme=radical" />
 </a>
