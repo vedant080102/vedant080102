@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently developing a website for [AutoDL](https://github.com/Auto-DL/auto-dl.github.io)
 
-
+---
+---
 
 <!-- <details> -->
 <summary> <strong> Languages and Tools </strong> </summary>
+
+---
 
 <p align="left">
 
@@ -53,6 +56,9 @@ Here are some ideas to get you started:
 <p width=100% style="display: block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi10hero&show_icons=true&theme=algolia&count_private=true" alt="adi10hero" /></p>
 </details> -->
 
+---
+---
+
 ### My Stats:
 
 <div>
@@ -61,6 +67,7 @@ Here are some ideas to get you started:
 </a>
 </div>
  
+---
 ### Language Stats:
 
 <div>
