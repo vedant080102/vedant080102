@@ -49,10 +49,9 @@ Here are some ideas to get you started:
 
 <details>
 <summary> <strong> My GitHub Stats </strong> </summary>
+<p width=100% style="display: block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant080102&show_icons=true&theme=radical&count_private=true" alt="vedant080102" /></p>
+  
 <p width=100%>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant080102&layout=compact&theme=radical&count_private=true" alt="vedant080102" />
 </p>&nbsp;
-
-
-<p width=100% style="display: block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant080102&show_icons=true&theme=radical&count_private=true" alt="vedant080102" /></p>
 </details>
