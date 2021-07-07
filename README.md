@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vedant080102/vedant080102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<details>
+<!-- <details> -->
 <summary> <strong> Languages and Tools </strong> </summary>
 ### Languages and frameworks I use:
 
@@ -46,7 +44,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-</details>
+<!-- </details> -->
 
 <!-- <details>
 <summary> <strong> GitHub Stats </strong> </summary>
