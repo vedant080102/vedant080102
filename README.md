@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://komarev.com/ghpvc/?username=vedant080102) -->
 
-<br/>
+<!-- <br/> -->
 
 #### Languages and Tools
 
@@ -53,9 +53,15 @@ Here are some ideas to get you started:
 
 <details>
 <summary> <strong> My GitHub Stats </strong> </summary>
-<p width=100% style="display: block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant080102&show_icons=true&theme=radical&count_private=true" alt="vedant080102" /></p>
+<!--   <summary><h2> My GitHub Stats </h2></summary> -->
+
+  ### Activity
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant080102&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="vedant080102" />
   
-<p width=100%>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant080102&layout=compact&theme=radical&count_private=true" alt="vedant080102" />
-</p>&nbsp;
+  ### Streak
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant080102&layout=compact&theme=radical&count_private=true" />
+
+  ### Top Languages
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant080102&layout=compact&theme=radical&count_private=true" alt="vedant080102" />
+
 </details>
