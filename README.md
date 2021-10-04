@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 
 #### 🔭 I’m currently developing a website for [AutoDL](https://github.com/Auto-DL/auto-dl.github.io)
+#### 📫 How to reach me: vedant.sarnobat@somaiya.edu
 
 ---
 
+<!-- ![](https://komarev.com/ghpvc/?username=vedant080102) -->
+
+<br/>
 
 #### Languages and Tools
 
