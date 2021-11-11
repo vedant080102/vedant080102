@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">VEDANT SARNOBAT</h1>
 
 
-#### 🔭 I’m currently developing a website for [AutoDL](https://github.com/Auto-DL/auto-dl.github.io)
+<!-- #### 🔭 I’m currently developing a website for [AutoDL](https://github.com/Auto-DL/auto-dl.github.io) -->
 #### 📫 How to reach me: vedant.sarnobat@somaiya.edu
 
 ---
